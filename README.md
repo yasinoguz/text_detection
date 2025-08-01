@@ -12,9 +12,10 @@ ICDAR veri seti üzerinde eğitilmiş U-Net tabanlı metin segmentasyon modeli.
 - **Gelişmiş Post-Processing**: Morfolojik işlemler ve kontur analizi
 
 ## ⚙️ Kurulum
-```bash
+
 pip install torch torchvision opencv-python numpy matplotlib shapely tqdm
 🏃‍♂️ Kullanım
+
 Eğitim
 python
 python train.py \
