@@ -1,6 +1,5 @@
 # U-Net ile Metin Tespiti (Text Detection)
 
-![Örnek Çıktılar](demo/combined_result.png)
 
 Bu proje, ICDAR veri seti kullanılarak eğitilmiş bir U-Net modeliyle görüntülerdeki metin bölgelerinin tespitini yapar. Özellikle belge/fotoğraf işleme ve OCR öncesi segmentasyon için tasarlanmıştır.
 
