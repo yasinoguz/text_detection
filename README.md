@@ -28,8 +28,26 @@ tile_size: Görüntü tile boyutu (default: 512)
 stride: Tile kaydırma mesafesi (default: 256)
 
 
+Veri Seti
+ICDAR 2015 veri seti kullanılmıştır:
+
+1000+ eğitim görseli
+
+Metin koordinatları için .txt annotasyonları
+
+Çeşitli diller ve metin yönelimleri
+
+
+
+
+
+        eğitim 
 ![eğitim görseli ](images/3.png)
+
+        eğitim 
 ![eğitim görseli ](images/2.png)
+
+        test
 ![test görseli ](images/1.png)
 
 
