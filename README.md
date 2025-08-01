@@ -1,6 +1,6 @@
 # 🚀 U-Net ile Metin Tespiti Sistemi
 
-![Proje Görseli](demo/combined_result.png)
+
 
 ICDAR veri seti üzerinde eğitilmiş U-Net tabanlı metin segmentasyon modeli.
 
